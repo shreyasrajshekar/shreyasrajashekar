@@ -1,4 +1,5 @@
-Hi everyone! I’m Shreyas Rajashekar, an intermediate developer passionate about building projects across a wide range of topics. Currently, I’m working on a couple of React-based projects. Always open to collaboration and learning — feel free to reach out anytime!
+Hi everyone! I’m Shreyas Rajashekar,
+an intermediate developer passionate about building projects across a wide range of topics. Currently, I’m working on a couple of React-based projects. Always open to collaboration and learning — feel free to reach out anytime!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyas.r_26) 
 
